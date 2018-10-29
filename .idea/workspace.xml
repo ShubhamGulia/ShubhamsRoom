@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d580b6e-a01b-44fc-baa7-fec5a4082d02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Downloading a file( ,csv)from web and reading it.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webcrawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class vs Instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Life Game (classes and objects).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webcrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Webcrawler.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +20,7 @@
     <SUITE FILE_PATH="coverage/ShubhamsRoom$UnpackingArguments.coverage" NAME="UnpackingArguments Coverage Results" MODIFIED="1540508645105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$keywordsArguments.coverage" NAME="keywordsArguments Coverage Results" MODIFIED="1540506694898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Downloading_Image_from_Web.coverage" NAME="Downloading Image from Web Coverage Results" MODIFIED="1540582544471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Life_Game__classes_and_objects_.coverage" NAME="Life Game (classes and objects) Coverage Results" MODIFIED="1540829949895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$ReadAndWriteFiles.coverage" NAME="ReadAndWriteFiles Coverage Results" MODIFIED="1540585852731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$FlexNumArgs_SimpleCal_.coverage" NAME="FlexNumArgs(SimpleCal) Coverage Results" MODIFIED="1540507842798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1540577781701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -24,39 +29,45 @@
     <SUITE FILE_PATH="coverage/ShubhamsRoom$continue.coverage" NAME="continue Coverage Results" MODIFIED="1540343651182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Functions_ReturnValue_Default.coverage" NAME="Functions,ReturnValue,Default Coverage Results" MODIFIED="1540505560358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Sets_Walmart_.coverage" NAME="Sets(Walmart) Coverage Results" MODIFIED="1540508742277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Init.coverage" NAME="Init Coverage Results" MODIFIED="1540831325708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Ifelse.coverage" NAME="Ifelse Coverage Results" MODIFIED="1540232428913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Forloop.coverage" NAME="Forloop Coverage Results" MODIFIED="1540232981304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Exception_handling.coverage" NAME="Exception handling Coverage Results" MODIFIED="1540831509165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Inheritance.coverage" NAME="Inheritance Coverage Results" MODIFIED="1540834802059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Break_and_Comment.coverage" NAME="Break and Comment Coverage Results" MODIFIED="1540342766030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Webcrawler.coverage" NAME="Webcrawler Coverage Results" MODIFIED="1540594139841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Class_vs_Instance.coverage" NAME="Class vs Instance Coverage Results" MODIFIED="1540832761325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Webcrawler.coverage" NAME="Webcrawler Coverage Results" MODIFIED="1540616094728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1710832728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.75" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4061" />
+          <entry key="py" value="6185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4061" />
+          <entry key="Python" value="6185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="py" value="16" />
+          <entry key="py" value="21" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -64,7 +75,7 @@
         <counts>
           <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="16" />
+          <entry key="Python" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -73,13 +84,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Webcrawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <state relative-caret-position="221">
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class vs Instance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+              <folding>
+                <marker date="1540832761290" expanded="true" signature="36:41" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Inheritance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <marker date="1540834801995" expanded="true" signature="313:446" ph="..." />
               </folding>
             </state>
           </provider>
@@ -117,6 +152,11 @@
         <option value="$PROJECT_DIR$/ReadAndWriteFiles.py" />
         <option value="$PROJECT_DIR$/Downloading a file( ,csv)from web and reading it.py" />
         <option value="$PROJECT_DIR$/Webcrawler.py" />
+        <option value="$PROJECT_DIR$/Life Game (classes and objects).py" />
+        <option value="$PROJECT_DIR$/Init.py" />
+        <option value="$PROJECT_DIR$/Exception handling.py" />
+        <option value="$PROJECT_DIR$/Class vs Instance.py" />
+        <option value="$PROJECT_DIR$/Inheritance.py" />
       </list>
     </option>
   </component>
@@ -126,8 +166,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="775" />
   </component>
@@ -139,7 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +190,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,8 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Webcrawler">
-    <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Inheritance">
+    <configuration name="Class vs Instance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShubhamsRoom" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,7 +223,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class vs Instance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Downloading Image from Web" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exception handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShubhamsRoom" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,7 +245,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Downloading Image from Web.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception handling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Downloading a file( ,csv)from web and reading it" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShubhamsRoom" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,7 +267,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Downloading a file( ,csv)from web and reading it.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReadAndWriteFiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Init" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShubhamsRoom" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,7 +289,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReadAndWriteFiles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Init.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Webcrawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Life Game (classes and objects)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ShubhamsRoom" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +311,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Webcrawler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Life Game (classes and objects).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,19 +321,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Dictionary" />
-      <item itemvalue="Python.Downloading Image from Web" />
-      <item itemvalue="Python.ReadAndWriteFiles" />
-      <item itemvalue="Python.Downloading a file( ,csv)from web and reading it" />
-      <item itemvalue="Python.Webcrawler" />
+      <item itemvalue="Python.Exception handling" />
+      <item itemvalue="Python.Life Game (classes and objects)" />
+      <item itemvalue="Python.Init" />
+      <item itemvalue="Python.Class vs Instance" />
+      <item itemvalue="Python.Inheritance" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Webcrawler" />
-        <item itemvalue="Python.Downloading a file( ,csv)from web and reading it" />
-        <item itemvalue="Python.ReadAndWriteFiles" />
-        <item itemvalue="Python.Downloading Image from Web" />
-        <item itemvalue="Python.Dictionary" />
+        <item itemvalue="Python.Inheritance" />
+        <item itemvalue="Python.Class vs Instance" />
+        <item itemvalue="Python.Exception handling" />
+        <item itemvalue="Python.Init" />
+        <item itemvalue="Python.Life Game (classes and objects)" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +354,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14145234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -463,12 +503,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exception handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life Game (classes and objects).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1540829986044" expanded="true" signature="12:13" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <marker date="1540831325643" expanded="true" signature="160:165" ph="..." />
+            <marker date="1540831325643" expanded="true" signature="360:361" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Webcrawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="221">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class vs Instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding>
+            <marker date="1540832761290" expanded="true" signature="36:41" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1540834801995" expanded="true" signature="313:446" ph="..." />
           </folding>
         </state>
       </provider>
