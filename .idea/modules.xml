@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/.idea/Hackerrank(30_days_of_code).iml" filepath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/.idea/Hackerrank(30_days_of_code).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ShubhamsRoom.iml" filepath="$PROJECT_DIR$/.idea/ShubhamsRoom.iml" />
     </modules>
   </component>
