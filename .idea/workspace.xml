@@ -22,6 +22,7 @@
     <SUITE FILE_PATH="coverage/ShubhamsRoom$lambda__No_function_req_.coverage" NAME="lambda (No function req) Coverage Results" MODIFIED="1540876382073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Sets_Walmart_.coverage" NAME="Sets(Walmart) Coverage Results" MODIFIED="1540508742277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_4_Class_vs__Instance.coverage" NAME="Day_4_Class_vs._Instance Coverage Results" MODIFIED="1541712539238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_6_Let_s_Review.coverage" NAME="Day_6_Let's_Review Coverage Results" MODIFIED="1541712970819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Min__Max__and_Sorting_Dictionaries.coverage" NAME="Min, Max, and Sorting Dictionaries Coverage Results" MODIFIED="1540877916221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Zip__merge_and_compare_or_other_stuff_.coverage" NAME="Zip (merge and compare or other stuff) Coverage Results" MODIFIED="1540875604015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$map.coverage" NAME="map Coverage Results" MODIFIED="1540912619027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -245,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day_5_Loops">
+  <component name="RunManager" selected="Python.Day_6_Let's_Review">
     <configuration name="Day_2_Operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hackerrank(30_days_of_code)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -334,20 +335,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Gender" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShubhamsRoom" />
+    <configuration name="Day_6_Let's_Review" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hackerrank(30_days_of_code)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gender.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day_6_Let's_Review.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,19 +358,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Gender" />
       <item itemvalue="Python.Day_2_Operators" />
       <item itemvalue="Python.Day_3_Intro_to_Conditional_Statements" />
       <item itemvalue="Python.Day_4_Class_vs._Instance" />
       <item itemvalue="Python.Day_5_Loops" />
+      <item itemvalue="Python.Day_6_Let's_Review" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day_6_Let's_Review" />
         <item itemvalue="Python.Day_5_Loops" />
         <item itemvalue="Python.Day_4_Class_vs._Instance" />
         <item itemvalue="Python.Day_3_Intro_to_Conditional_Statements" />
         <item itemvalue="Python.Day_2_Operators" />
-        <item itemvalue="Python.Gender" />
       </list>
     </recent_temporary>
   </component>
