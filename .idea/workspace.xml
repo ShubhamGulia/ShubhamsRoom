@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d580b6e-a01b-44fc-baa7-fec5a4082d02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/.idea/Hackerrank(30_days_of_code).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day_2_Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ShubhamsRoom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ShubhamsRoom.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8d580b6e-a01b-44fc-baa7-fec5a4082d02" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +16,7 @@
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Life_Game__classes_and_objects_.coverage" NAME="Life Game (classes and objects) Coverage Results" MODIFIED="1540829949895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$ReadAndWriteFiles.coverage" NAME="ReadAndWriteFiles Coverage Results" MODIFIED="1540585852731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Range_While.coverage" NAME="Range,While Coverage Results" MODIFIED="1540234030609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_3_Intro_to_Conditional_Statements.coverage" NAME="Day_3_Intro_to_Conditional_Statements Coverage Results" MODIFIED="1541712265284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$lambda__No_function_req_.coverage" NAME="lambda (No function req) Coverage Results" MODIFIED="1540876382073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Sets_Walmart_.coverage" NAME="Sets(Walmart) Coverage Results" MODIFIED="1540508742277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Min__Max__and_Sorting_Dictionaries.coverage" NAME="Min, Max, and Sorting Dictionaries Coverage Results" MODIFIED="1540877916221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -117,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/Gender.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -129,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day_2_Operators.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -204,7 +195,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="775" />
@@ -224,11 +215,6 @@
             <path>
               <item name="ShubhamsRoom" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShubhamsRoom" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShubhamsRoom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShubhamsRoom" type="462c0819:PsiDirectoryNode" />
-              <item name="Hackerrank(30_days_of_code)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day_2_Operators">
+  <component name="RunManager" selected="Python.Day_3_Intro_to_Conditional_Statements">
     <configuration name="Day_2_Operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hackerrank(30_days_of_code)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,20 +263,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DictionaryMultipleSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShubhamsRoom" />
+    <configuration name="Day_3_Intro_to_Conditional_Statements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hackerrank(30_days_of_code)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DictionaryMultipleSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day_3_Intro_to_Conditional_Statements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,19 +352,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.DictionaryMultipleSort" />
       <item itemvalue="Python.SortingCustomObjects" />
       <item itemvalue="Python.operators ( Hacker Rank)" />
       <item itemvalue="Python.Gender" />
       <item itemvalue="Python.Day_2_Operators" />
+      <item itemvalue="Python.Day_3_Intro_to_Conditional_Statements" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day_3_Intro_to_Conditional_Statements" />
         <item itemvalue="Python.Day_2_Operators" />
         <item itemvalue="Python.Gender" />
         <item itemvalue="Python.operators ( Hacker Rank)" />
         <item itemvalue="Python.SortingCustomObjects" />
-        <item itemvalue="Python.DictionaryMultipleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -405,15 +391,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="676" y="0" width="697" height="775" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16490166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3422292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3353846" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3400936" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -733,7 +718,7 @@
     <entry file="file://$PROJECT_DIR$/Gender.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
@@ -743,7 +728,7 @@
     <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day_2_Operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
