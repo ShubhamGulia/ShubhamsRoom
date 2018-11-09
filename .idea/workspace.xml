@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d580b6e-a01b-44fc-baa7-fec5a4082d02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day9_Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
     <session id="1710832728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.47" value="1" />
@@ -135,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day7_Arrays.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding>
                 <element signature="e#16#27#0" expanded="true" />
               </folding>
@@ -147,14 +147,21 @@
         <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day8__Dictionaries_and_Maps.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day9_Recursion.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -257,27 +264,6 @@
               <item name="ShubhamsRoom" type="462c0819:PsiDirectoryNode" />
               <item name="Hackerrank(30_days_of_code)" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ShubhamsRoom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShubhamsRoom" type="462c0819:PsiDirectoryNode" />
-              <item name="Hackerrank(30_days_of_code)" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShubhamsRoom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShubhamsRoom" type="462c0819:PsiDirectoryNode" />
-              <item name="Hackerrank(30_days_of_code)" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShubhamsRoom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShubhamsRoom" type="462c0819:PsiDirectoryNode" />
-              <item name="Hackerrank(30_days_of_code)" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -302,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day7_Arrays">
+  <component name="RunManager" selected="Python.Day9_Recursion">
     <configuration name="Day7_Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hackerrank(30_days_of_code)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day_3_Intro_to_Conditional_Statements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day9_Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hackerrank(30_days_of_code)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,7 +324,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day_3_Intro_to_Conditional_Statements.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day9_Recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,19 +400,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day_3_Intro_to_Conditional_Statements" />
       <item itemvalue="Python.Day_4_Class_vs._Instance" />
       <item itemvalue="Python.Day_5_Loops" />
       <item itemvalue="Python.Day_6_Let's_Review" />
       <item itemvalue="Python.Day7_Arrays" />
+      <item itemvalue="Python.Day9_Recursion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day9_Recursion" />
         <item itemvalue="Python.Day7_Arrays" />
         <item itemvalue="Python.Day_6_Let's_Review" />
         <item itemvalue="Python.Day_5_Loops" />
         <item itemvalue="Python.Day_4_Class_vs._Instance" />
-        <item itemvalue="Python.Day_3_Intro_to_Conditional_Statements" />
       </list>
     </recent_temporary>
   </component>
@@ -454,9 +440,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3472012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3472012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -469,7 +454,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3276923" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32923076" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32923076" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -805,7 +790,7 @@
     <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day7_Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
             <element signature="e#16#27#0" expanded="true" />
           </folding>
@@ -815,12 +800,19 @@
     <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day8__Dictionaries_and_Maps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day9_Recursion.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
