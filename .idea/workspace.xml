@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d580b6e-a01b-44fc-baa7-fec5a4082d02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ShubhamsRoom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ShubhamsRoom.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/.idea/Hackerrank(30_days_of_code).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/.idea/Hackerrank(30_days_of_code).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day11_2DArrays.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +17,7 @@
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Day9_Recursion.coverage" NAME="Day9_Recursion Coverage Results" MODIFIED="1542053425938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Day12_Inheritance.coverage" NAME="Day12_Inheritance Coverage Results" MODIFIED="1542059937697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Downloading_Image_from_Web.coverage" NAME="Downloading Image from Web Coverage Results" MODIFIED="1540582544471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day11_2DArrays.coverage" NAME="Day11_2DArrays Coverage Results" MODIFIED="1542064462241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Life_Game__classes_and_objects_.coverage" NAME="Life Game (classes and objects) Coverage Results" MODIFIED="1540829949895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$ReadAndWriteFiles.coverage" NAME="ReadAndWriteFiles Coverage Results" MODIFIED="1540585852731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_12_Inheritance.coverage" NAME="Day_12_Inheritance Coverage Results" MODIFIED="1542059802235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)/venv" />
@@ -100,7 +98,7 @@
         <counts>
           <entry key="csv" value="2" />
           <entry key="jpg" value="2" />
-          <entry key="py" value="50" />
+          <entry key="py" value="52" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -109,7 +107,7 @@
           <entry key="CSV" value="1" />
           <entry key="Image" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="50" />
+          <entry key="Python" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -118,20 +116,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Inheritance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/venv/Day_12_Inheritance.py">
+        <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day11_2DArrays.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+            <state relative-caret-position="85">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -151,8 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Bucky1st.py" />
-        <option value="$PROJECT_DIR$/Ifelse.py" />
         <option value="$PROJECT_DIR$/Forloop.py" />
         <option value="$PROJECT_DIR$/Range,While.py" />
         <option value="$PROJECT_DIR$/Break and Comment.py" />
@@ -202,6 +189,8 @@
         <option value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day8__Dictionaries_and_Maps.py" />
         <option value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day9_Recursion.py" />
         <option value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/venv/Day_12_Inheritance.py" />
+        <option value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day12_Inheritance.py" />
+        <option value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day11_2DArrays.py" />
       </list>
     </option>
   </component>
@@ -237,12 +226,6 @@
               <item name="ShubhamsRoom" type="462c0819:PsiDirectoryNode" />
               <item name="Hackerrank(30_days_of_code)" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ShubhamsRoom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShubhamsRoom" type="462c0819:PsiDirectoryNode" />
-              <item name="Hackerrank(30_days_of_code)" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -267,7 +250,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day12_Inheritance">
+  <component name="RunManager" selected="Python.Day11_2DArrays">
+    <configuration name="Day11_2DArrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hackerrank(30_days_of_code)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day11_2DArrays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Day12_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hackerrank(30_days_of_code)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,28 +287,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day12_Inheritance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day7_Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Hackerrank(30_days_of_code)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day7_Arrays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,19 +362,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day7_Arrays" />
       <item itemvalue="Python.Day9_Recursion" />
       <item itemvalue="Python.Day8__Dictionaries_and_Maps" />
       <item itemvalue="Python.Day_12_Inheritance" />
       <item itemvalue="Python.Day12_Inheritance" />
+      <item itemvalue="Python.Day11_2DArrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day11_2DArrays" />
         <item itemvalue="Python.Day12_Inheritance" />
         <item itemvalue="Python.Day_12_Inheritance" />
         <item itemvalue="Python.Day8__Dictionaries_and_Maps" />
         <item itemvalue="Python.Day9_Recursion" />
-        <item itemvalue="Python.Day7_Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -421,12 +404,12 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3524962" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3524962" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.34" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.34" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,20 +434,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/continue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Break and Comment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions,ReturnValue,Default.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -780,6 +749,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/venv/Day_12_Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="23" selection-end-line="61" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -787,10 +763,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/venv/Day_12_Inheritance.py">
+    <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day12_Inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        <state relative-caret-position="211">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day11_2DArrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
