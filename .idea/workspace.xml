@@ -10,62 +10,64 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ShubhamsRoom$DictionaryMultipleSort.coverage" NAME="DictionaryMultipleSort Coverage Results" MODIFIED="1540917710337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Finding_the_most_frequent_words.coverage" NAME="Finding the most frequent words Coverage Results" MODIFIED="1540916545787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Gender.coverage" NAME="Gender Coverage Results" MODIFIED="1541176596824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day9_Recursion.coverage" NAME="Day9_Recursion Coverage Results" MODIFIED="1542053425938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day12_Inheritance.coverage" NAME="Day12_Inheritance Coverage Results" MODIFIED="1542059937697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Downloading_Image_from_Web.coverage" NAME="Downloading Image from Web Coverage Results" MODIFIED="1540582544471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Day11_2DArrays.coverage" NAME="Day11_2DArrays Coverage Results" MODIFIED="1542064462241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Life_Game__classes_and_objects_.coverage" NAME="Life Game (classes and objects) Coverage Results" MODIFIED="1540829949895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$ReadAndWriteFiles.coverage" NAME="ReadAndWriteFiles Coverage Results" MODIFIED="1540585852731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_12_Inheritance.coverage" NAME="Day_12_Inheritance Coverage Results" MODIFIED="1542059802235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)/venv" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Range_While.coverage" NAME="Range,While Coverage Results" MODIFIED="1540234030609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_3_Intro_to_Conditional_Statements.coverage" NAME="Day_3_Intro_to_Conditional_Statements Coverage Results" MODIFIED="1541712265284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$lambda__No_function_req_.coverage" NAME="lambda (No function req) Coverage Results" MODIFIED="1540876382073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Sets_Walmart_.coverage" NAME="Sets(Walmart) Coverage Results" MODIFIED="1540508742277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_4_Class_vs__Instance.coverage" NAME="Day_4_Class_vs._Instance Coverage Results" MODIFIED="1541712539238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_6_Let_s_Review.coverage" NAME="Day_6_Let's_Review Coverage Results" MODIFIED="1541712970819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Min__Max__and_Sorting_Dictionaries.coverage" NAME="Min, Max, and Sorting Dictionaries Coverage Results" MODIFIED="1540877916221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Zip__merge_and_compare_or_other_stuff_.coverage" NAME="Zip (merge and compare or other stuff) Coverage Results" MODIFIED="1540875604015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$map.coverage" NAME="map Coverage Results" MODIFIED="1540912619027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Init.coverage" NAME="Init Coverage Results" MODIFIED="1540831325708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Ifelse.coverage" NAME="Ifelse Coverage Results" MODIFIED="1540232428913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Break_and_Comment.coverage" NAME="Break and Comment Coverage Results" MODIFIED="1540342766030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$SortingCustomObjects.coverage" NAME="SortingCustomObjects Coverage Results" MODIFIED="1541122128647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Class_vs_Instance.coverage" NAME="Class vs Instance Coverage Results" MODIFIED="1540832761325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$UnpackingArguments.coverage" NAME="UnpackingArguments Coverage Results" MODIFIED="1540508645105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_5_Loops.coverage" NAME="Day_5_Loops Coverage Results" MODIFIED="1541712870158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Image_prop__PILLOW_.coverage" NAME="Image prop (PILLOW) Coverage Results" MODIFIED="1540878016426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$keywordsArguments.coverage" NAME="keywordsArguments Coverage Results" MODIFIED="1540506694898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$WordCountFreq.coverage" NAME="WordCountFreq Coverage Results" MODIFIED="1540874253436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$ImgCrop.coverage" NAME="ImgCrop Coverage Results" MODIFIED="1540909947056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Dictionary_calculations.coverage" NAME="Dictionary calculations Coverage Results" MODIFIED="1540914807985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day14_Scope.coverage" NAME="Day14_Scope Coverage Results" MODIFIED="1542228404055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$continue.coverage" NAME="continue Coverage Results" MODIFIED="1540343651182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Functions_ReturnValue_Default.coverage" NAME="Functions,ReturnValue,Default Coverage Results" MODIFIED="1540505560358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$operators___Hacker_Rank_.coverage" NAME="operators ( Hacker Rank) Coverage Results" MODIFIED="1541122359800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Forloop.coverage" NAME="Forloop Coverage Results" MODIFIED="1540232981304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Exception_handling.coverage" NAME="Exception handling Coverage Results" MODIFIED="1540831509165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Inheritance.coverage" NAME="Inheritance Coverage Results" MODIFIED="1540834802059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$bitwise_operators.coverage" NAME="bitwise operators Coverage Results" MODIFIED="1540913237814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Webcrawler.coverage" NAME="Webcrawler Coverage Results" MODIFIED="1540616094728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Finding_the_most_frequent_words.coverage" NAME="Finding the most frequent words Coverage Results" MODIFIED="1540916545787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day9_Recursion.coverage" NAME="Day9_Recursion Coverage Results" MODIFIED="1542053425938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day12_Inheritance.coverage" NAME="Day12_Inheritance Coverage Results" MODIFIED="1542059937697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Downloading_Image_from_Web.coverage" NAME="Downloading Image from Web Coverage Results" MODIFIED="1540582544471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$ReadAndWriteFiles.coverage" NAME="ReadAndWriteFiles Coverage Results" MODIFIED="1540585852731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Range_While.coverage" NAME="Range,While Coverage Results" MODIFIED="1540234030609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_3_Intro_to_Conditional_Statements.coverage" NAME="Day_3_Intro_to_Conditional_Statements Coverage Results" MODIFIED="1541712265284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Sets_Walmart_.coverage" NAME="Sets(Walmart) Coverage Results" MODIFIED="1540508742277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_4_Class_vs__Instance.coverage" NAME="Day_4_Class_vs._Instance Coverage Results" MODIFIED="1541712539238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Zip__merge_and_compare_or_other_stuff_.coverage" NAME="Zip (merge and compare or other stuff) Coverage Results" MODIFIED="1540875604015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Init.coverage" NAME="Init Coverage Results" MODIFIED="1540831325708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Ifelse.coverage" NAME="Ifelse Coverage Results" MODIFIED="1540232428913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_5_Loops.coverage" NAME="Day_5_Loops Coverage Results" MODIFIED="1541712870158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
+    <SUITE FILE_PATH="coverage/ShubhamsRoom$ImgCrop.coverage" NAME="ImgCrop Coverage Results" MODIFIED="1540909947056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$FlexNumArgs_SimpleCal_.coverage" NAME="FlexNumArgs(SimpleCal) Coverage Results" MODIFIED="1540507842798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Dictionary.coverage" NAME="Dictionary Coverage Results" MODIFIED="1540577781701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Threading_Send_and_receive_messages_.coverage" NAME="Threading(Send and receive messages) Coverage Results" MODIFIED="1540843021833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Downloading_a_file___csv_from_web_and_reading_it.coverage" NAME="Downloading a file( ,csv)from web and reading it Coverage Results" MODIFIED="1540592634121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Multiple_Inheritance.coverage" NAME="Multiple Inheritance Coverage Results" MODIFIED="1540841835788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$continue.coverage" NAME="continue Coverage Results" MODIFIED="1540343651182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Functions_ReturnValue_Default.coverage" NAME="Functions,ReturnValue,Default Coverage Results" MODIFIED="1540505560358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Finding_Largest_and_Smallest.coverage" NAME="Finding Largest and Smallest Coverage Results" MODIFIED="1540914210036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Unpack__list_and_tuples_.coverage" NAME="Unpack (list and tuples) Coverage Results" MODIFIED="1540875436542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$operators___Hacker_Rank_.coverage" NAME="operators ( Hacker Rank) Coverage Results" MODIFIED="1541122359800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Forloop.coverage" NAME="Forloop Coverage Results" MODIFIED="1540232981304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Day8__Dictionaries_and_Maps.coverage" NAME="Day8__Dictionaries_and_Maps Coverage Results" MODIFIED="1542053456266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Exception_handling.coverage" NAME="Exception handling Coverage Results" MODIFIED="1540831509165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Inheritance.coverage" NAME="Inheritance Coverage Results" MODIFIED="1540834802059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$bitwise_operators.coverage" NAME="bitwise operators Coverage Results" MODIFIED="1540913237814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ShubhamsRoom$Day_2_Operators.coverage" NAME="Day_2_Operators Coverage Results" MODIFIED="1541711949518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
-    <SUITE FILE_PATH="coverage/ShubhamsRoom$Webcrawler.coverage" NAME="Webcrawler Coverage Results" MODIFIED="1540616094728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1710832728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="1" />
@@ -79,7 +81,7 @@
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.92" value="1" />
           <entry key="project.open.time.98" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -201,7 +203,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="775" />
@@ -214,7 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +232,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day11_2DArrays">
+  <component name="RunManager" selected="Python.Day14_Scope">
     <configuration name="Day11_2DArrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hackerrank(30_days_of_code)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,6 +298,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Day14_Scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hackerrank(30_days_of_code)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day14_Scope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Day8__Dictionaries_and_Maps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hackerrank(30_days_of_code)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,28 +334,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day8__Dictionaries_and_Maps.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day9_Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Hackerrank(30_days_of_code)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank(30_days_of_code)/Day9_Recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,19 +365,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day9_Recursion" />
       <item itemvalue="Python.Day8__Dictionaries_and_Maps" />
       <item itemvalue="Python.Day_12_Inheritance" />
       <item itemvalue="Python.Day12_Inheritance" />
       <item itemvalue="Python.Day11_2DArrays" />
+      <item itemvalue="Python.Day14_Scope" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day14_Scope" />
         <item itemvalue="Python.Day11_2DArrays" />
         <item itemvalue="Python.Day12_Inheritance" />
         <item itemvalue="Python.Day_12_Inheritance" />
         <item itemvalue="Python.Day8__Dictionaries_and_Maps" />
-        <item itemvalue="Python.Day9_Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -402,9 +404,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3524962" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35779122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -716,9 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,9 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,19 +739,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/venv/Day_12_Inheritance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="23" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Hackerrank(30_days_of_code)/venv/Day_12_Inheritance.py" />
     <entry file="file://$PROJECT_DIR$/Inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
