@@ -13,4 +13,4 @@ def trade_spider(max_pages):
             title=link.string
             print(href)
             print(title)
-trade_spider()
+trade_spider(1)
